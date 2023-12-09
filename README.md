@@ -1,3 +1,2 @@
 ## A simple todo list 
-* I use php as my backend and mysql as database.
-* Access the website through [Website](http://kooma-todo-list.ml/) 
+* PHP as my backend and MySQL as my database.
